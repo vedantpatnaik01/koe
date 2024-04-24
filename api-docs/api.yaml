@@ -4,12 +4,9 @@ info:
   version: 5.1.0
   description: 'The API for [Koel](https://koel.dev), the music streaming application that works.'
   contact:
-    name: An Phan
-    url: 'https://phanan.net'
-    email: me@phanan.net
-  license:
-    name: MIT
-    url: 'https://github.com/koel/koel/blob/master/LICENSE.md'
+    name: Vedant Patnaik
+    url: 'https://vedant.website'
+    email: vedantpatnaik.work@gmail.com
 servers:
   - url: 'https://koel.test'
     description: Local
